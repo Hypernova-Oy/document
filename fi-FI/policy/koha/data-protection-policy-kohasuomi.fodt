@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2018-11-14T16:15:21.775351403</meta:creation-date><dc:date>2019-07-01T21:01:02.189211161</dc:date><meta:editing-duration>P2DT13H27M11S</meta:editing-duration><meta:editing-cycles>301</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="191" meta:word-count="1282" meta:character-count="12518" meta:non-whitespace-character-count="11298"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34715</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18390</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20260</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3962</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34713</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">18389</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">172982</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">31615098</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="sms" fo:country="FI" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="sms" fo:country="FI" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Table_20_Heading" style:display-name="Table Heading" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:class="extra">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.1965in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.3929in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.5319in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Courier New" style:font-family-asian="&apos;Courier New&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Character_5f_20_5f_style" style:display-name="Character_20_style" style:family="text"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-prefix=" " style:num-suffix=" " style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WWNum1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Character_5f_20_5f_style" style:num-suffix="-" text:bullet-char="-">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Cambria"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Symbol" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="3in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="3.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Symbol" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="4in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="4.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="WWNum2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Character_5f_20_5f_style" style:num-suffix="-" text:bullet-char="-">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Cambria"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Symbol" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="3in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="3.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Symbol" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Character_5f_20_5f_style" style:num-suffix="o" text:bullet-char="o">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="4in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normaali" style:font-pitch="fixed"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" style:num-suffix="" text:bullet-char="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="4.5in"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="Wingdings" style:font-charset="x-symbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Heading" style:family="table">
+   <style:table-properties style:width="6.925in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Heading.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.4625in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Heading.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.4625in" style:rel-column-width="32768*"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="0002a3b6"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="0167a97b"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="0002a3b6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0002a3b6"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="0002a3b6"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="014e224f"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="00e4ecb7"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00201c68" officeooo:paragraph-rsid="00201c68"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="01668171" officeooo:paragraph-rsid="01668171"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="00048050" officeooo:paragraph-rsid="014e224f" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="00048050" officeooo:paragraph-rsid="014e224f" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="01386b42" officeooo:paragraph-rsid="00048050" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01c46a38" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01c46a38"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="00a7a3ac"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c53a55" officeooo:paragraph-rsid="01c53a55"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01c7289c"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01c7289c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c8fa24" officeooo:paragraph-rsid="01c8fa24"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c9af92" officeooo:paragraph-rsid="01c9af92"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01cc4d84" officeooo:paragraph-rsid="01cc4d84"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d4ac2a" officeooo:paragraph-rsid="01d4ac2a"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d5504c" officeooo:paragraph-rsid="01d5504c"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d63d05" officeooo:paragraph-rsid="01d63d05"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d6fcc7" officeooo:paragraph-rsid="01d6fcc7"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d863e5" officeooo:paragraph-rsid="01d863e5"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d8de11" officeooo:paragraph-rsid="01d8de11"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d9114e" officeooo:paragraph-rsid="01d9114e"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d9bf38" officeooo:paragraph-rsid="01d9bf38"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01d9fae8" officeooo:paragraph-rsid="01d9fae8"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01dad63c" officeooo:paragraph-rsid="01dad63c"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01dc6e05" officeooo:paragraph-rsid="01dc6e05"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01cd88ac"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01cd88ac" officeooo:paragraph-rsid="01cd88ac"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01cf5257" officeooo:paragraph-rsid="01cf5257"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.5319in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="01d863e5"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01d63d05"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01c49c8a"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="01e1f7ee" officeooo:paragraph-rsid="01e2687a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01c46a38"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="00e4ecb7"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="01c46a38"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01c49c8a"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01d63d05"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="01d863e5"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="01cd88ac"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="01cc4d84" officeooo:paragraph-rsid="01cc4d84"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="01cd88ac" officeooo:paragraph-rsid="01cd88ac"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="01cf5257" officeooo:paragraph-rsid="01cf5257"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01c7289c"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00abec40"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="0002a3b6"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="01a2aaf4"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="01c46a38"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="01c9af92"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="01ca7afe"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="01cc4d84"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="01cd88ac"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="01d1def7"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="01d424e9"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="01d63d05"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="01d9bf38"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="01e1f7ee" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:section-properties>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5417in" fo:text-indent="-0.25in" fo:margin-left="0.5417in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.7917in" fo:text-indent="-0.25in" fo:margin-left="0.7917in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.0417in" fo:text-indent="-0.25in" fo:margin-left="1.0417in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.2917in" fo:text-indent="-0.25in" fo:margin-left="1.2917in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5417in" fo:text-indent="-0.25in" fo:margin-left="1.5417in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.7917in" fo:text-indent="-0.25in" fo:margin-left="1.7917in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.0417in" fo:text-indent="-0.25in" fo:margin-left="2.0417in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.2917in" fo:text-indent="-0.25in" fo:margin-left="2.2917in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5417in" fo:text-indent="-0.25in" fo:margin-left="2.5417in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.7917in" fo:text-indent="-0.25in" fo:margin-left="2.7917in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <table:table table:name="Heading" table:style-name="Heading">
+    <table:table-column table:style-name="Heading.A"/>
+    <table:table-column table:style-name="Heading.B"/>
+    <table:table-row>
+     <table:table-cell office:value-type="string">
+      <text:p text:style-name="P3">Hypernova Oy</text:p>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1">Kauppakatu 25 C 409</text:p>
+      <text:p text:style-name="P1">80100 JOENSUU</text:p>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P4"><text:span text:style-name="T2">Puhelin: </text:span><text:a xlink:type="simple" xlink:href="tel:+358449857337" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">+358449857337</text:a></text:p>
+      <text:p text:style-name="P1">Y-tunnus: 2925676-3</text:p>
+      <text:p text:style-name="P1">SPosti: <text:a xlink:type="simple" xlink:href="mailto:info@hypernova.fi" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">info@hypernova.fi</text:a></text:p>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.hypernova.fi/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.hypernova.fi/</text:a></text:p>
+      <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://github.com/Hypernova-Oy" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/Hypernova-Oy</text:a></text:p>
+      <text:p text:style-name="P49"/>
+      <text:p text:style-name="P50"/>
+     </table:table-cell>
+     <table:table-cell office:value-type="string">
+      <text:p text:style-name="P14"><text:span text:style-name="T14">Tietoturva- ja tietosuojaselvitys </text:span><text:span text:style-name="T15">KohaSuomi Koha-kirjastojärjestelmälle</text:span></text:p>
+      <text:p text:style-name="P14"><text:span text:style-name="T15"/></text:p>
+      <text:p text:style-name="P7">Päiväys <text:span text:style-name="T4">1</text:span>.<text:span text:style-name="T5">7</text:span>.201<text:span text:style-name="T1">9</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P15"/>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Sisällysluettelo</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
+      <text:p text:style-name="Contents_20_Heading">Sisällysluettelo</text:p>
+     </text:index-title>
+     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2974_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 <text:s/>Tietojärjestelmätoimittajalta vaadittavat tietoturva- ja tietosuojakäytänteet<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2976_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 <text:s/>Tietoturvan periaatteet<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2978_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.1 <text:s/>Henkilötiedon käsittely (ml. henkilötietojen pseudonymisointi ja salaus)<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2980_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.2 <text:s/>Luottamuksellisuus, saatavuus, vikasietoisuus<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2982_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.3 <text:s/>Riskienhallinta<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2984_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.4 <text:s/>Palautuminen<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2986_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.5 <text:s/>Tietoturvakäytänteiden säännöllinen arviointi<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2988_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1.6 <text:s/>Henkilöstön koulutus ja ohjeet<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2990_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 <text:s/>Sovelluskehityksen periaatteet<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2992_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2.1 <text:s/>Tietosuoja- ja tietoturvavaatimusten huomiointi<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2994_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2.2 <text:s/>Testausdata, jossa ei oikeaa henkilötietoa<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2996_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2.3 <text:s/>Kehitysympäristön tietoturva<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2998_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 <text:s/>Käyttövaltuushallinnan periaatteet<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3000_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3.1 <text:s/>Käyttäjätunnuksen elinkaari<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3002_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3.2 <text:s/>Käyttöoikeuksien katselmointi<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3004_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 <text:s/>Järjestelmän/palvelun tietoturva- ja tietosuojaominaisuudet<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3006_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 <text:s/>Järjestelmän valvonta-, ylläpito- ja tuki<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3008_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 <text:s/>Järjestelmän riskianalysointi<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3010_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3 <text:s/>Järjestelmän testausprosessi<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3012_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4 <text:s/>Järjestelmän tietosisältö (ml. erityiset tietoryhmät) ja integraatiot<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3014_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5 <text:s/>Rekisteröidyn oikeuksien toteutuminen järjestelmässä:<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3016_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.1 <text:s/>rekisteröidyn tietojen tarkastus<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3018_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.2 <text:s/>rekisteröidyn tietojen poisto ja oikaisu<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3020_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.3 <text:s/>rekisteröidyn tietojen export<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3022_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.4 <text:s/>suostumusten ja kieltojen hallinta<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3024_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.5 <text:s/>henkilötietojen käsittelyn minimointi (ml. vanhentuneiden tietojen poisto)<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3026_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.6 <text:s/>henkilötietojen anonymisointi/pseudonymisointi<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3028_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.6 <text:s/>Järjestelmän käyttövaltuushallinnan periaatteet:<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3030_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.6.1 <text:s/>henkilökohtaiset käyttäjätunnukset<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3032_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.6.2 <text:s/>salasanamääritykset<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3034_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.7 <text:s/>Lokit:<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3036_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.7.1 <text:s/>kirjautumisloki, admin-käyttöloki<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3038_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.7.2 <text:s/>henkilötietojen käsittelyn lokitus (käyttöloki)<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3040_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.7.3 <text:s/>lokiraportit<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3042_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.7.4 <text:s/>lokien suojaus<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3044_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.8 <text:s/>Varmuuskopiointi<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3046_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.9 <text:s/>Toipumissuunnitelma<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3048_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.10 <text:s/>Tietoturvapäivitykset<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3050_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11 <text:s/>Tietoturvakuvaus:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3052_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.1 <text:s/>salaukset<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3054_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.2 <text:s/>salasanan suojaus<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3056_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.3 <text:s/>yhteyksien suojaus / verkkoliikenteen tietoturva<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3058_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.4 <text:s/>tietojen suojaukset<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3060_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.5 <text:s/>tietojen syötön suojaus<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3062_2349706580" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.11.6 <text:s/>datamallien tietoturva<text:tab/>6</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2974_2349706580"/><text:soft-page-break/>Tietojärjestelmätoimittajalta vaadittavat tietoturva- ja tietosuojakäytänteet<text:bookmark-end text:name="__RefHeading___Toc2974_2349706580"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2976_2349706580"/>Tietoturvan periaatteet<text:bookmark-end text:name="__RefHeading___Toc2976_2349706580"/></text:h>
+   <text:p text:style-name="P21">Tietoturvamme perustuu pitkältä</text:p>
+   <text:list xml:id="list1613776034" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P54">käyttöjärjestelmä- ja palvelinsovellustason tietoturvapäivityksiin.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P53"><text:span text:style-name="T8">Modernien ja ajanmukaiset salaimien (</text:span><text:bookmark text:name="apacheconfig"/>EECDH+AESGCM:EDH+AESGCM<text:span text:style-name="T9">) ja protokollien käyttämiseen (TLS1.3, HTTP/3)</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P55">käyttäjätunnus+salasana -kombinaatioiden korvaaminen salasanasuojatuilla private-public -salausavaimilla.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P55">Konttiteknologioiden mahdollistamaan palveluiden ja virtuaalipalvelimien isolaation.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P56">“Zero trust” ja “drop by default”</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P56">Plaintext-protokollien (FTP, SIP2) välttely tai tunnelointi stunnel4, tai ssh -ohjelmilla.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2978_2349706580"/>Henkilötiedon käsittely (ml. henkilötietojen pseudonymisointi ja salaus)<text:bookmark-end text:name="__RefHeading___Toc2978_2349706580"/></text:h>
+   <text:p text:style-name="P17">Järjestelmään tallennetaan loppukäyttäjien ja henkilökunnan henkilötietoja, ks. erillinen henkilötietojen käsittelysopimus.</text:p>
+   <text:p text:style-name="P17">Me suosittelemme olemaan tallentamatta hetu:a, mutta se on asiakkaan harkinnan mukaista.</text:p>
+   <text:p text:style-name="P17">Järjestelmän lokeihin jää myös merkintä ladatuista sivuista ja metadataa asiakkaan istunnoista.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17">Loppukäyttäjä voi itse valita kerätäänkö hänen lainahistoriaansa vai ei. Viimeisimmät niteen kaksi lainajaa jää aina muistiin, jotta voidaan kohdentaa perintätoimia aineiston turmelemisen takia.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17">Loppukäyttäjille lähetetään muistutuksia ja ilmoituksia. Asiakas voi itse valita minkälaisia viestipohjia käytetään. Suosittelemme käyttämään mahdollisimman vähiä henkilötietoja.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17">Asiakkaan henkilökunta hoitaa loppukäyttäjärekisteriä ja heidän käyttöoikeuksiaan.</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P18">Anonymisointi</text:p>
+   <text:p text:style-name="P17">Testiympäristöihin luodaan testidataa anonymisoimalla oikeaa asiakasdataa.</text:p>
+   <text:p text:style-name="P17">Anonymisointi suoritetaan erilaisilla suodattimilla tapauksesta riippuen.</text:p>
+   <text:p text:style-name="P17"><text:soft-page-break/>Olemassaolevat nimet, osoitteet, syntymäajat puhelinnumerot ja muut henkilöivät tiedot korvataan joko:</text:p>
+   <text:list xml:id="list4293447711" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P57">yksi-yhteen vastaavan merkkiluokan merkillä, esim numero korvataan millä vaan satunnaisella numerolla. Tällöin sanojen pituudet ja määrä ovat aina samoja, mutta sisältö lukukelvotonta.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P57">Puppusanageneraattorilla, joka hävittää vanhat arvot ja tuo tilalle kokonaan uudet ihmisluettavat sanat. Mitään jälkeä vanhasta arvosta ei jää.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P17"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2980_2349706580"/>Luottamuksellisuus, saatavuus, vikasietoisuus<text:bookmark-end text:name="__RefHeading___Toc2980_2349706580"/></text:h>
+   <text:p text:style-name="P19">Käytetyt palvelinohjelmistot (LAMP) ovat erittäin laajasti käytettyjä ja turvallisiksi ja luotettaviksi havaittuja.</text:p>
+   <text:p text:style-name="P20">Tarvittaessa palveluita voidaan hajauttaa ja vikasietoisuutta lisätä palveluita kahdentamalla, <text:span text:style-name="T10">jos asiakkaalla on maksukykyä.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2982_2349706580"/>Riskienhallinta<text:bookmark-end text:name="__RefHeading___Toc2982_2349706580"/></text:h>
+   <text:p text:style-name="P19">Riskejä arvoidaan jatkuvasti, <text:span text:style-name="T7">vähintään viikoittain tapahtuvissa riskienarviointikokouksissa</text:span>. <text:span text:style-name="T6">Hypernova Oy:llä on itsekkäät itsesuojelulliset intressit omien ja asiakkaidemme riskien minimoimiseksi.</text:span></text:p>
+   <text:p text:style-name="P29">Otamme DREAD:n vakavasti.</text:p>
+   <text:p text:style-name="P19">Erilaiset käyttöyhteisöt ympäri maailman ja valtakunnallisesti ennakoivat ja hallitsevat ohjelmistoon liittyviä riskejä.</text:p>
+   <text:p text:style-name="P19">Hypernova Oy toimii aktiivisesti osana erilaisia käyttäjäyhteisöjä <text:span text:style-name="T6">ja seuraa aktiivisesti nykyisiä ja tulevia uhkamalleja.</text:span></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2984_2349706580"/>Palautuminen<text:bookmark-end text:name="__RefHeading___Toc2984_2349706580"/></text:h>
+   <text:p text:style-name="P20">Hapokasta.</text:p>
+   <text:p text:style-name="P20">Järjestelmäpalvelut käynnistyvät vikatilanteissa uudestaan.</text:p>
+   <text:p text:style-name="P20">Monitorointityökalut valvovat palveluita ja ilmoittavat palveluiden uhkista ja puutteista.</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P20">Järjestelmä voidaan tarvittaessa rakentaa automaattisesti kokonaan uudestaan ja viimeisin varmuuskopio palauttaa.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2986_2349706580"/>Tietoturvakäytänteiden säännöllinen arviointi<text:bookmark-end text:name="__RefHeading___Toc2986_2349706580"/></text:h>
+   <text:p text:style-name="P20">Seurataan aktiivisesti globaaleja uhkia.</text:p>
+   <text:p text:style-name="P20">Tukeudutaan käyttöjärjestelmän ja palvelinohjelmistojen toimittajien päivityspaketteihin.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2988_2349706580"/><text:soft-page-break/>Henkilöstön koulutus ja ohjeet<text:bookmark-end text:name="__RefHeading___Toc2988_2349706580"/></text:h>
+   <text:p text:style-name="P20">Henkilöstö vastaa itse omasta osaamisestaan ja oppii jatkuvasti globaalilta osaajayhteisöltä.</text:p>
+   <text:p text:style-name="P20">Junior- ja Trainee -tason työntekijöitä opastetaan ja työn suorittamista valvotaan aktiivisesti.</text:p>
+   <text:p text:style-name="P20">Hypernova Oy:n osaajapiiriin pääseminen vaatii rankkojen henkisten ja fyysisten motivaatiotestien läpäisyä.<text:line-break/>Testit mittaavat kattavasti osaamista järjestelmäpalvelun tarjoamisen eri osapuolilta, sekä persoonallisuuden soveltumista työyhteisöön, että työtehtävään.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2990_2349706580"/>Sovelluskehityksen periaatteet<text:bookmark-end text:name="__RefHeading___Toc2990_2349706580"/></text:h>
+   <text:p text:style-name="P21">Hypernova Oy noudattaa näitä periaatteita tehdessään sovelluskehitystyötä.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2992_2349706580"/>Tietosuoja- ja tietoturvavaatimusten huomiointi<text:bookmark-end text:name="__RefHeading___Toc2992_2349706580"/></text:h>
+   <text:p text:style-name="P21">Autentikointi ja auktorisointi on aina mielessä. OWASP on oiva perusta turvallisen ohjelmiston suunnittelulle.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2994_2349706580"/>Testausdata, jossa ei oikeaa henkilötietoa<text:bookmark-end text:name="__RefHeading___Toc2994_2349706580"/></text:h>
+   <text:p text:style-name="P21">ks. yllä.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2996_2349706580"/>Kehitysympäristön tietoturva<text:bookmark-end text:name="__RefHeading___Toc2996_2349706580"/></text:h>
+   <text:p text:style-name="P21">Kehitysympäristöt rakennetaan samalla kaavalla kuin tuotantoympäristötkin.</text:p>
+   <text:p text:style-name="P21">Kehitysympäristöissä ei ole oikeaa asiakasdataa, mutta usein ovat julkisesti saavutettavissa hyväksymistestauksen helpotamiseksi.</text:p>
+   <text:p text:style-name="P21">Kehitysympäristöt <text:span text:style-name="T11">isoloidaan ja niitä ajetaan eri alustapalvelimella kuin tuotantopalvelimia.</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2998_2349706580"/>Käyttövaltuushallinnan periaatteet<text:bookmark-end text:name="__RefHeading___Toc2998_2349706580"/></text:h>
+   <text:h text:style-name="P41" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3000_2349706580"/>Käyttäjätunnuksen elinkaari<text:bookmark-end text:name="__RefHeading___Toc3000_2349706580"/></text:h>
+   <text:p text:style-name="P22">Asiakas parametroi itse oletusvoimassaoloajan loppukäyttäjän tunnuksille. Tunnukset tarkastetaan ja uusitaan säännöllisin väliajoin.</text:p>
+   <text:p text:style-name="P22">Palvelinten huoltotunnukset vaihdetaan automaattisesti ja palvelinautomaatio hoitaa autentikoinnin huoltoyhteyksille läpinäkyvästi.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3002_2349706580"/>Käyttöoikeuksien katselmointi<text:bookmark-end text:name="__RefHeading___Toc3002_2349706580"/></text:h>
+   <text:p text:style-name="P22">Järjestelmästä on mahdollista saada raportteja, joissa käyttöoikeudet on kuvattu selkeästi.</text:p>
+   <text:h text:style-name="P39" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc3004_2349706580"/><text:soft-page-break/>Järjestelmän/palvelun tietoturva- ja tietosuojaominaisuudet<text:bookmark-end text:name="__RefHeading___Toc3004_2349706580"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3006_2349706580"/>Järjestelmän valvonta-, ylläpito- ja tuki<text:bookmark-end text:name="__RefHeading___Toc3006_2349706580"/></text:h>
+   <text:p text:style-name="P23">Järjestelmiä valvotaan <text:span text:style-name="T12">(Zabbix4) </text:span>automaattisesti tyypillisten vikatilanteiden varalta.<text:line-break/><text:span text:style-name="T13">Zabbix4 kerää myös suorituskykytilastoa, jota käytetään palvelinkapasiteettikulun tarkasteluun.</text:span></text:p>
+   <text:p text:style-name="P24">Lisäksi suoritetaan manuaalisia tarkastuksia ja ajetaan haittaohjelmaskannauksia.</text:p>
+   <text:p text:style-name="P25">Tukea on tarjolla sähköpostitse, 24h kuluessa tai<text:line-break/>hätänumerosta, pyritään vastaamaan kaikkina kellonaikoina.</text:p>
+   <text:h text:style-name="P40" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3008_2349706580"/>Järjestelmän riskianalysointi<text:bookmark-end text:name="__RefHeading___Toc3008_2349706580"/></text:h>
+   <text:p text:style-name="P24">ks. yllä.</text:p>
+   <text:h text:style-name="P40" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3010_2349706580"/>Järjestelmän testausprosessi<text:bookmark-end text:name="__RefHeading___Toc3010_2349706580"/></text:h>
+   <text:p text:style-name="P26">Sen lisäksi että eri yhteisöt kehittävät tuotetta ja tarjoavat sille omat laadunvalvontaputkensa, meillä on omat kevyet toiminnalliset testit että palvelin-infrastruktuuri toimii oikein.</text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P26">Kaikki asennukset ja päivitykset ja muut huoltotyöt hoidetaan keskuspalvelimen kautta, jonne määritellään haluttu palvelinkonfiguraatio.</text:p>
+   <text:p text:style-name="P26">Konfiguraatio testataan ensin testipalvelimella, sitten muutos testataan yleisellä demopalvelimella ja viimeisenä muutos tuodaan automaation avulla tuotantopalvelimelle.</text:p>
+   <text:p text:style-name="P27">Tällä tavalla voidaan varmistua että palvelinautomaatio ei tuota epämieluisia sivuvaikutuksia, ja että päivitys toimii automatisoidusti. Jos päivitykset tai muutokset eivät toimi oikein, käytämme osaamistamme ja kytköksiämme yhteisöihin ja korjaamme ongelmat käyttäen asiakkaidemme kanssa sovittua yhteiskehittämispuskuria.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3012_2349706580"/>Järjestelmän tietosisältö (ml. erityiset tietoryhmät) ja integraatiot<text:bookmark-end text:name="__RefHeading___Toc3012_2349706580"/></text:h>
+   <text:p text:style-name="P28">Integraatiot ovat asiakaskohtaisia ja niistä sovitaan erikseen.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3014_2349706580"/>Rekisteröidyn oikeuksien toteutuminen järjestelmässä:<text:bookmark-end text:name="__RefHeading___Toc3014_2349706580"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3016_2349706580"/>rekisteröidyn tietojen tarkastus<text:bookmark-end text:name="__RefHeading___Toc3016_2349706580"/></text:h>
+   <text:p text:style-name="P28">Loppukäyttäjä voi tutustua omiin tietoihinsa verkkokirjaston kautta.</text:p>
+   <text:p text:style-name="P28">Asiakkaalla on pääsy erilaisiin raportteihin joilla tietoa loppukäyttäjistä voi koostaa.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3018_2349706580"/><text:soft-page-break/>rekisteröidyn tietojen poisto ja oikaisu<text:bookmark-end text:name="__RefHeading___Toc3018_2349706580"/></text:h>
+   <text:p text:style-name="P28">Järjestelmäasetuksista riippuen, asiakas voi itse suoraan muuttaa omia tietojaan, tai työntekijän tarkastamana.</text:p>
+   <text:p text:style-name="P28">Työntekijät voivat poistaa loppukäyttäjän tiedot järjestelmästä.</text:p>
+   <text:p text:style-name="P28">Virheellisiä tietoja voi korjata pyydettäessa manuaalisesti.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3020_2349706580"/>rekisteröidyn tietojen export<text:bookmark-end text:name="__RefHeading___Toc3020_2349706580"/></text:h>
+   <text:p text:style-name="P28">Asiakkaan tietoja voi tuoda järjestelmästä myös eräajona. Erilaisia tiedontuontitapoja on useita, kuten .csv, .html</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3022_2349706580"/>suostumusten ja kieltojen hallinta<text:bookmark-end text:name="__RefHeading___Toc3022_2349706580"/></text:h>
+   <text:p text:style-name="P28">Loppukäyttäjä käyttääkseen kirjaston palveluja suostuu käyttösääntöihin. Asiakkaalle voidaan lisätä erilaisia kieltoja ja rajoitteita, sekä käyttöoikeuksia rajata erilaisiin osa-alueisiin, kuten lainaaminen, tai omatoimikirjaston käyttö tietyssä toimipisteessä.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3024_2349706580"/>henkilötietojen käsittelyn minimointi (ml. vanhentuneiden tietojen poisto)<text:bookmark-end text:name="__RefHeading___Toc3024_2349706580"/></text:h>
+   <text:p text:style-name="P28">Rekisterin pito on asiakkaan vastuulla.</text:p>
+   <text:p text:style-name="P28">Järjestelmään jää merkintä aina kun asiakkaan tietoja käsitellään.</text:p>
+   <text:p text:style-name="P28">Järjestelmän kautta on mahdollista kerätä tietoa vanhentuneista ja harvoin asioivista loppukäyttäjistä ja tehdä asiakasrekisterin siivousta.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3026_2349706580"/>henkilötietojen anonymisointi/pseudonymisointi<text:bookmark-end text:name="__RefHeading___Toc3026_2349706580"/></text:h>
+   <text:p text:style-name="P28">ks. yllä</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3028_2349706580"/>Järjestelmän käyttövaltuushallinnan periaatteet:<text:bookmark-end text:name="__RefHeading___Toc3028_2349706580"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3030_2349706580"/>henkilökohtaiset käyttäjätunnukset<text:bookmark-end text:name="__RefHeading___Toc3030_2349706580"/></text:h>
+   <text:p text:style-name="P28">Suosittelemme aina asiakasta käyttämään henkilökohtaisia käyttäjätunnuksia työntekijöilleen. Tunnukset vanhenevat määräajan kuluttua ja samalla päivitetään tiedot ja tunnisteet.</text:p>
+   <text:p text:style-name="P28">Palvelimen huoltotöitä varten on ylläpitäjillä henkilökohtaiset tunnukset.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3032_2349706580"/>Salasanamääritykset<text:bookmark-end text:name="__RefHeading___Toc3032_2349706580"/></text:h>
+   <text:p text:style-name="P28">Salasanan vaatimukset voi asettaa järjestelmäasetuksessa.</text:p>
+   <text:p text:style-name="P28">Salasanat tallennetaan tietokantaan salatussa muodossa, käyttäen <text:span text:style-name="T13">Blowfish-salainta,<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://github.com/Koha-Community/Koha/blob/master/Koha/AuthUtils.pm#L68" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T13">https://github.com/Koha-Community/Koha/blob/master/Koha/AuthUtils.pm#L68</text:span></text:a></text:p>
+   <text:p text:style-name="P28"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3034_2349706580"/><text:soft-page-break/>Lokit:<text:bookmark-end text:name="__RefHeading___Toc3034_2349706580"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3036_2349706580"/>kirjautumisloki, admin-käyttöloki<text:bookmark-end text:name="__RefHeading___Toc3036_2349706580"/></text:h>
+   <text:p text:style-name="P29">koha.sessions -tietokantataulussa</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3038_2349706580"/>henkilötietojen käsittelyn lokitus (käyttöloki)<text:bookmark-end text:name="__RefHeading___Toc3038_2349706580"/></text:h>
+   <text:p text:style-name="P29">koha.accesslog -tietokantataulussa</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3040_2349706580"/>lokiraportit<text:bookmark-end text:name="__RefHeading___Toc3040_2349706580"/></text:h>
+   <text:p text:style-name="P29">Ei kerätä raportteja lokeista.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3042_2349706580"/>lokien suojaus<text:bookmark-end text:name="__RefHeading___Toc3042_2349706580"/></text:h>
+   <text:p text:style-name="P29">Tarpeen mukaan käytetään ulkoista lokituspalvelinta, jonne kootaan lokeja useasta eri ympäristöstä.</text:p>
+   <text:p text:style-name="P29">Tämä suojaa lokeja STRIDE:ltä.</text:p>
+   <text:p text:style-name="P29">Palvelut maksuluokan mukaan.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3044_2349706580"/>Varmuuskopiointi<text:bookmark-end text:name="__RefHeading___Toc3044_2349706580"/></text:h>
+   <text:p text:style-name="P30">Varmuuskopio sisältää lokit ja tietokannan sisällön. Eli kaiken datan mitä asiakas järjestelmään tuottaa.</text:p>
+   <text:p text:style-name="P30">Vastaamme varmuuskopioiden säilyttämisestä 5 vuotta, tai siihen asti kun sopimus on voimassa + 6kk.</text:p>
+   <text:p text:style-name="P30">Maksuluokan mukaan voidaan tarjota reaaliaikaista varmuuskopiointia ja palautusta.</text:p>
+   <text:p text:style-name="P31">Varmuuskopiot ovat .tar.gz-paketteja, eikä meillä ole toistaiseksi pienen datamäärän takia tarvetta inkrementaalisille varmuuskopioille.<text:line-break/>Olemme huomanneet, että usein yksinkertaiset menetelmät ovat niitä kaikista luotettavimpia.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3046_2349706580"/>Toipumissuunnitelma <text:bookmark-end text:name="__RefHeading___Toc3046_2349706580"/></text:h>
+   <text:p text:style-name="P32">Keskuspalvelimelta voidaan palauttaa ja uudelleen rakentaa kaikki ympäristöt versionhallinnassa olevista konfiguraatioista ja varmuuskopioista.</text:p>
+   <text:p text:style-name="P32">Keskuspalvelin voidaan palauttaa varmuuskopioista ja versionhallinnasta.</text:p>
+   <text:p text:style-name="P32">Samoja idempotenttisia ohjelmia käytetään päivityksiin, asentamiseen ja ylläpitämiseen, jolloin luotto omaan automaatioon pysyy korkeana.</text:p>
+   <text:p text:style-name="P32">Jos varmuuskopiot katoavat, ollaan liemessä.</text:p>
+   <text:p text:style-name="P32">Jos infrastruktuurin tarjoaja ei pysty tarjoamaan luotettavaa palvelua, voidaan vaihtaa toimittajaa.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3048_2349706580"/>Tietoturvapäivitykset<text:bookmark-end text:name="__RefHeading___Toc3048_2349706580"/></text:h>
+   <text:p text:style-name="P32">ks. yllä.</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3050_2349706580"/><text:soft-page-break/>Tietoturvakuvaus: <text:bookmark-end text:name="__RefHeading___Toc3050_2349706580"/></text:h>
+   <text:p text:style-name="P32">Käytetään salaimia ja protokollia että saadaan ssllabs:n SSL-testissä aina täydet pisteet. Ohjeistetaan asiakasta ohjeistamaan loppukäyttäjää pitämään selaimet päivitettyinä.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3052_2349706580"/>Salaukset<text:bookmark-end text:name="__RefHeading___Toc3052_2349706580"/></text:h>
+   <text:p text:style-name="P32">RSA, EECDH+AESGCM:EDH+AESGCM</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3054_2349706580"/>salasanan suojaus<text:bookmark-end text:name="__RefHeading___Toc3054_2349706580"/></text:h>
+   <text:p text:style-name="P32">Blowfish</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3056_2349706580"/>yhteyksien suojaus / verkkoliikenteen tietoturva<text:bookmark-end text:name="__RefHeading___Toc3056_2349706580"/></text:h>
+   <text:p text:style-name="P32">TLS1.2</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3058_2349706580"/>tietojen suojaukset<text:bookmark-end text:name="__RefHeading___Toc3058_2349706580"/></text:h>
+   <text:p text:style-name="Text_20_body">-</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3060_2349706580"/>tietojen syötön suojaus<text:bookmark-end text:name="__RefHeading___Toc3060_2349706580"/></text:h>
+   <text:p text:style-name="P32">SSL</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3062_2349706580"/>datamallien tietoturva<text:bookmark-end text:name="__RefHeading___Toc3062_2349706580"/></text:h>
+   <text:p text:style-name="Text_20_body">-</text:p>
+   <text:p text:style-name="Text_20_body"/>
+  </office:text>
+ </office:body>
+</office:document>
