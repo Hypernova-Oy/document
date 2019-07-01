@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-11-14T16:15:21.775351403</meta:creation-date><dc:date>2019-07-01T21:01:02.189211161</dc:date><meta:editing-duration>P2DT13H27M11S</meta:editing-duration><meta:editing-cycles>301</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="191" meta:word-count="1282" meta:character-count="12518" meta:non-whitespace-character-count="11298"/></office:meta>
+ <office:meta><meta:creation-date>2018-11-14T16:15:21.775351403</meta:creation-date><dc:date>2019-07-01T21:38:56.293695463</dc:date><meta:editing-duration>P2DT13H54M30S</meta:editing-duration><meta:editing-cycles>310</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="189" meta:word-count="1318" meta:character-count="13070" meta:non-whitespace-character-count="11809"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34715</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18390</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17358</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">20260</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3962</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8562</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">9151</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34713</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">18389</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17357</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">31615098</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">31628843</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -560,52 +560,52 @@
    <style:text-properties officeooo:paragraph-rsid="01c49c8a"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="01e1f7ee" officeooo:paragraph-rsid="01e2687a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01c46a38"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="01c46a38" officeooo:paragraph-rsid="01e2687a"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="00e4ecb7"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="01e2687a"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="00048050" officeooo:paragraph-rsid="01c46a38"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="01c49c8a"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0002a3b6" officeooo:paragraph-rsid="01e2687a"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="01e2687a"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="01d63d05"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="01d863e5"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:paragraph-rsid="01cd88ac"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="01cc4d84" officeooo:paragraph-rsid="01cc4d84"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="01cd88ac" officeooo:paragraph-rsid="01cd88ac"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="01cf5257" officeooo:paragraph-rsid="01cf5257"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01c7289c"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01e29e2b"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c7289c" officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01e2687a" officeooo:paragraph-rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01c9af92" officeooo:paragraph-rsid="01e29e2b"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00abec40"/>
@@ -651,6 +651,15 @@
   </style:style>
   <style:style style:name="T15" style:family="text">
    <style:text-properties fo:font-weight="bold" officeooo:rsid="01e1f7ee" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="01e2687a"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="01c7289c"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="01e29e2b"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -797,8 +806,8 @@
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.hypernova.fi/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.hypernova.fi/</text:a></text:p>
       <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://github.com/Hypernova-Oy" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/Hypernova-Oy</text:a></text:p>
-      <text:p text:style-name="P49"/>
-      <text:p text:style-name="P50"/>
+      <text:p text:style-name="P45"/>
+      <text:p text:style-name="P46"/>
      </table:table-cell>
      <table:table-cell office:value-type="string">
       <text:p text:style-name="P14"><text:span text:style-name="T14">Tietoturva- ja tietosuojaselvitys </text:span><text:span text:style-name="T15">KohaSuomi Koha-kirjastojärjestelmälle</text:span></text:p>
@@ -947,72 +956,66 @@
    </text:table-of-content>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2974_2349706580"/><text:soft-page-break/>Tietojärjestelmätoimittajalta vaadittavat tietoturva- ja tietosuojakäytänteet<text:bookmark-end text:name="__RefHeading___Toc2974_2349706580"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2976_2349706580"/>Tietoturvan periaatteet<text:bookmark-end text:name="__RefHeading___Toc2976_2349706580"/></text:h>
-   <text:p text:style-name="P21">Tietoturvamme perustuu pitkältä</text:p>
+   <text:p text:style-name="P21">Tietoturvamme perustuu</text:p>
    <text:list xml:id="list1613776034" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P54">käyttöjärjestelmä- ja palvelinsovellustason tietoturvapäivityksiin.</text:p>
+     <text:p text:style-name="P50">käyttöjärjestelmä- ja palvelinsovellustason tietoturvapäivityksiin</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P53"><text:span text:style-name="T8">Modernien ja ajanmukaiset salaimien (</text:span><text:bookmark text:name="apacheconfig"/>EECDH+AESGCM:EDH+AESGCM<text:span text:style-name="T9">) ja protokollien käyttämiseen (TLS1.3, HTTP/3)</text:span></text:p>
+     <text:p text:style-name="P49"><text:span text:style-name="T16">modernien ja ajanmukaisten salaimien (</text:span><text:bookmark text:name="apacheconfig"/>EECDH+AESGCM:EDH+AESGCM<text:span text:style-name="T9">) ja protokollien käyttöön (TLS1.3, HTTP/3)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55">käyttäjätunnus+salasana -kombinaatioiden korvaaminen salasanasuojatuilla private-public -salausavaimilla.</text:p>
+     <text:p text:style-name="P51">käyttäjätunnus+salasana -kombinaatioiden <text:span text:style-name="T16">korvaamiseen</text:span> salasanasuojatuilla private-public -salausavaimilla</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55">Konttiteknologioiden mahdollistamaan palveluiden ja virtuaalipalvelimien isolaation.</text:p>
+     <text:p text:style-name="P51"><text:span text:style-name="T16">k</text:span>onttiteknologioiden mahdollistamaan palveluiden ja virtuaalipalvelimien isolaatio<text:span text:style-name="T16">o</text:span>n</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">“Zero trust” ja “drop by default”</text:p>
+     <text:p text:style-name="P52">“Zero trust” ja “drop by default”</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P56">Plaintext-protokollien (FTP, SIP2) välttely tai tunnelointi stunnel4, tai ssh -ohjelmilla.</text:p>
+     <text:p text:style-name="P52"><text:span text:style-name="T16">p</text:span>laintext-protokollien (FTP, SIP2) <text:span text:style-name="T16">välttämiseen</text:span> tai tunnelointi<text:span text:style-name="T16">in</text:span> stunnel4 tai ssh -ohjelmilla.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2978_2349706580"/>Henkilötiedon käsittely (ml. henkilötietojen pseudonymisointi ja salaus)<text:bookmark-end text:name="__RefHeading___Toc2978_2349706580"/></text:h>
-   <text:p text:style-name="P17">Järjestelmään tallennetaan loppukäyttäjien ja henkilökunnan henkilötietoja, ks. erillinen henkilötietojen käsittelysopimus.</text:p>
-   <text:p text:style-name="P17">Me suosittelemme olemaan tallentamatta hetu:a, mutta se on asiakkaan harkinnan mukaista.</text:p>
-   <text:p text:style-name="P17">Järjestelmän lokeihin jää myös merkintä ladatuista sivuista ja metadataa asiakkaan istunnoista.</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17">Loppukäyttäjä voi itse valita kerätäänkö hänen lainahistoriaansa vai ei. Viimeisimmät niteen kaksi lainajaa jää aina muistiin, jotta voidaan kohdentaa perintätoimia aineiston turmelemisen takia.</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17">Loppukäyttäjille lähetetään muistutuksia ja ilmoituksia. Asiakas voi itse valita minkälaisia viestipohjia käytetään. Suosittelemme käyttämään mahdollisimman vähiä henkilötietoja.</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17">Asiakkaan henkilökunta hoitaa loppukäyttäjärekisteriä ja heidän käyttöoikeuksiaan.</text:p>
+   <text:p text:style-name="P55">Järjestelmään tallennetaan loppukäyttäjien ja henkilökunnan henkilötietoja, ks. erillinen henkilötietojen käsittelysopimus.</text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T16">S</text:span>uosittelemme olemaan tallentamatta <text:span text:style-name="T16">henkilötunnuksia,</text:span> mutta <text:span text:style-name="T16">asiakas voi halutessaan poiketa suosituksestamme asiakkaan omalla vastuulla</text:span>.</text:p>
+   <text:p text:style-name="P17">Järjestelmän <text:span text:style-name="T16">lokeihin</text:span> jää merkintä ladatuista sivuista ja metadataa asiakkaan istunnoista.</text:p>
+   <text:p text:style-name="P56">Lainahistorian tallentaminen on loppukäyttäjän itse valittavissa.<text:span text:style-name="T17"> Viimeisimmät niteen kaksi lainajaa jää aina muistiin, jotta voidaan </text:span>tarvittaessa<text:span text:style-name="T17"> kohdentaa perintätoim</text:span>enpiteitä<text:span text:style-name="T17"> aineiston turmelemisen takia.</text:span></text:p>
+   <text:p text:style-name="P17">Loppukäyttäjille lähetetään muistutuksia ja ilmoituksia. Asiakas voi itse valita minkälaisia viestipohjia käytetään. Suosittelemme käyttämään mahdollisimman väh<text:span text:style-name="T16">äisiä</text:span> henkilötietoja <text:span text:style-name="T16">sisältäviä viestipohjia</text:span>.</text:p>
+   <text:p text:style-name="P17">Asiakka<text:span text:style-name="T16">s</text:span> hoitaa <text:span text:style-name="T16">itse</text:span> loppukäyttäjärekisteriä <text:span text:style-name="T18">ja on vastuussa loppukäyttäjärekisteritietojen oikeellisuudesta</text:span>.</text:p>
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P18">Anonymisointi</text:p>
-   <text:p text:style-name="P17">Testiympäristöihin luodaan testidataa anonymisoimalla oikeaa asiakasdataa.</text:p>
+   <text:p text:style-name="P17">Testiympäristöihin luodaan testidataa <text:span text:style-name="T18">oikean asiakastietokannan pohjalta käyttäen anonymisointityökaluja</text:span>.</text:p>
    <text:p text:style-name="P17">Anonymisointi suoritetaan erilaisilla suodattimilla tapauksesta riippuen.</text:p>
-   <text:p text:style-name="P17"><text:soft-page-break/>Olemassaolevat nimet, osoitteet, syntymäajat puhelinnumerot ja muut henkilöivät tiedot korvataan joko:</text:p>
+   <text:p text:style-name="P17">Olemassaolevat nimet, osoitteet, syntymäajat, puhelinnumerot ja muut henkilöivät tiedot korvataan joko</text:p>
    <text:list xml:id="list4293447711" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P57">yksi-yhteen vastaavan merkkiluokan merkillä, esim numero korvataan millä vaan satunnaisella numerolla. Tällöin sanojen pituudet ja määrä ovat aina samoja, mutta sisältö lukukelvotonta.</text:p>
+     <text:p text:style-name="P53"><text:soft-page-break/>yksi-yhteen vastaavan merkkiluokan merkillä. <text:span text:style-name="T18">E</text:span>sim<text:span text:style-name="T18">erkiksi</text:span> numero korvata<text:span text:style-name="T18">an</text:span> satunnais<text:span text:style-name="T18">lukugeneraattorin luomalla</text:span> numerolla. Tällöin <text:span text:style-name="T18">merkkijonojen</text:span> <text:span text:style-name="T18">rakenteet</text:span> ovat <text:span text:style-name="T18">samoja</text:span>, mutta sisältö <text:span text:style-name="T18">epäoleellista ja mahdotonta palauttaa alkuperäiseen muotoon</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P57">Puppusanageneraattorilla, joka hävittää vanhat arvot ja tuo tilalle kokonaan uudet ihmisluettavat sanat. Mitään jälkeä vanhasta arvosta ei jää.</text:p>
+     <text:p text:style-name="P54"><text:span text:style-name="T18">p</text:span>uppusanageneraattorilla, joka hävittää vanhat arvot ja tuo tilalle kokonaan uudet ihmisluettavat sanat. <text:s/>Tällöin <text:span text:style-name="T18">merkkijonojen</text:span> <text:span text:style-name="T18">rakenteet</text:span> ovat <text:span text:style-name="T18">samankaltaisia</text:span>, mutta sisältö <text:span text:style-name="T18">epäoleellista ja mahdotonta palauttaa alkuperäiseen muotoon</text:span>.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2980_2349706580"/>Luottamuksellisuus, saatavuus, vikasietoisuus<text:bookmark-end text:name="__RefHeading___Toc2980_2349706580"/></text:h>
-   <text:p text:style-name="P19">Käytetyt palvelinohjelmistot (LAMP) ovat erittäin laajasti käytettyjä ja turvallisiksi ja luotettaviksi havaittuja.</text:p>
-   <text:p text:style-name="P20">Tarvittaessa palveluita voidaan hajauttaa ja vikasietoisuutta lisätä palveluita kahdentamalla, <text:span text:style-name="T10">jos asiakkaalla on maksukykyä.</text:span></text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T18">Käyttämämme</text:span> palvelinohjelmistot ovat erittäin laajasti käytettyjä ja turvallisiksi ja luotettaviksi havaittuja. <text:span text:style-name="T18">Käytämme aina vapaan ja avoimen lähdekoodin ohjelmistoja.</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T18">Sopimuksen tasosta riippuen</text:span> palveluita voidaan hajauttaa ja vikasietoisuutta lisätä palveluita kahdentamalla.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2982_2349706580"/>Riskienhallinta<text:bookmark-end text:name="__RefHeading___Toc2982_2349706580"/></text:h>
-   <text:p text:style-name="P19">Riskejä arvoidaan jatkuvasti, <text:span text:style-name="T7">vähintään viikoittain tapahtuvissa riskienarviointikokouksissa</text:span>. <text:span text:style-name="T6">Hypernova Oy:llä on itsekkäät itsesuojelulliset intressit omien ja asiakkaidemme riskien minimoimiseksi.</text:span></text:p>
-   <text:p text:style-name="P29">Otamme DREAD:n vakavasti.</text:p>
-   <text:p text:style-name="P19">Erilaiset käyttöyhteisöt ympäri maailman ja valtakunnallisesti ennakoivat ja hallitsevat ohjelmistoon liittyviä riskejä.</text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T18">Arvioimme riskejä vähintään viikoittain tapahtuvissa riskienarviointikokouksissa</text:span>. <text:span text:style-name="T18">Hypernova Oy:llä on <text:s/>itsesuojelulliset intressit omien ja asiakkaidemme riskien minimoimiseksi.</text:span></text:p>
+   <text:p text:style-name="P19">Erilaiset käytt<text:span text:style-name="T18">äjä</text:span>yhteisöt <text:span text:style-name="T18">kansainvälisesti</text:span> ennakoivat ja hallitsevat <text:span text:style-name="T18">käyttämiimme ohjelmistoihin</text:span> liittyviä riskejä.</text:p>
    <text:p text:style-name="P19">Hypernova Oy toimii aktiivisesti osana erilaisia käyttäjäyhteisöjä <text:span text:style-name="T6">ja seuraa aktiivisesti nykyisiä ja tulevia uhkamalleja.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2984_2349706580"/>Palautuminen<text:bookmark-end text:name="__RefHeading___Toc2984_2349706580"/></text:h>
-   <text:p text:style-name="P20">Hapokasta.</text:p>
-   <text:p text:style-name="P20">Järjestelmäpalvelut käynnistyvät vikatilanteissa uudestaan.</text:p>
-   <text:p text:style-name="P20">Monitorointityökalut valvovat palveluita ja ilmoittavat palveluiden uhkista ja puutteista.</text:p>
-   <text:p text:style-name="P20"/>
-   <text:p text:style-name="P20">Järjestelmä voidaan tarvittaessa rakentaa automaattisesti kokonaan uudestaan ja viimeisin varmuuskopio palauttaa.</text:p>
+   <text:p text:style-name="P20">Järjestelmäpalvelu<text:span text:style-name="T18">mme</text:span> käynnistyvät vikatilanteissa uudestaan.</text:p>
+   <text:p text:style-name="P20">Monitorointityökalu<text:span text:style-name="T18">mme</text:span> valvovat palveluita<text:span text:style-name="T18">mme automaattisesti ympäri vuorokauden</text:span> ja ilmoittavat palvelui<text:span text:style-name="T18">himme kohdistuvista uhkista ja puutteista.</text:span></text:p>
+   <text:p text:style-name="P20">Järjestelmä<text:span text:style-name="T18">mme</text:span> voidaan tarvittaessa rakentaa automaattisesti kokonaan uudestaan <text:span text:style-name="T18">ja ottaa käyttöön viimeisin varmuuskopio.</text:span></text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2986_2349706580"/>Tietoturvakäytänteiden säännöllinen arviointi<text:bookmark-end text:name="__RefHeading___Toc2986_2349706580"/></text:h>
-   <text:p text:style-name="P20">Seurataan aktiivisesti globaaleja uhkia.</text:p>
-   <text:p text:style-name="P20">Tukeudutaan käyttöjärjestelmän ja palvelinohjelmistojen toimittajien päivityspaketteihin.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2988_2349706580"/><text:soft-page-break/>Henkilöstön koulutus ja ohjeet<text:bookmark-end text:name="__RefHeading___Toc2988_2349706580"/></text:h>
-   <text:p text:style-name="P20">Henkilöstö vastaa itse omasta osaamisestaan ja oppii jatkuvasti globaalilta osaajayhteisöltä.</text:p>
-   <text:p text:style-name="P20">Junior- ja Trainee -tason työntekijöitä opastetaan ja työn suorittamista valvotaan aktiivisesti.</text:p>
-   <text:p text:style-name="P20">Hypernova Oy:n osaajapiiriin pääseminen vaatii rankkojen henkisten ja fyysisten motivaatiotestien läpäisyä.<text:line-break/>Testit mittaavat kattavasti osaamista järjestelmäpalvelun tarjoamisen eri osapuolilta, sekä persoonallisuuden soveltumista työyhteisöön, että työtehtävään.</text:p>
+   <text:p text:style-name="P20">Seura<text:span text:style-name="T18">amme</text:span> aktiivisesti globaaleja uhkia <text:span text:style-name="T18">mm. sähköpostilistoilta, keskustelupalstoilta- ja kanavilta ja sekä sosiaalisesta- että perinteisestä mediasta.</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T18">Tukeudumme</text:span> <text:span text:style-name="T18">ohjelmistojemme toimittajien</text:span> <text:span text:style-name="T18">julkaisemiin </text:span>päivityspaketteihin.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2988_2349706580"/>Henkilöstön koulutus ja ohjeet<text:bookmark-end text:name="__RefHeading___Toc2988_2349706580"/></text:h>
+   <text:p text:style-name="P57">Hypernova Oy:n <text:span text:style-name="T18">tietojärjestelmäasiantuntijoiksi valitaan vain henkilöt, jotka ovat läpäisseet</text:span> <text:span text:style-name="T18">työtehtävän vaatimuksia vastaavat raskaat</text:span> henkise<text:span text:style-name="T18">t</text:span> ja fyysise<text:span text:style-name="T18">t</text:span> <text:span text:style-name="T18">ammattitaito- ja </text:span>motivaatio<text:span text:style-name="T18">testit</text:span>. Testit <text:soft-page-break/>mittaavat kattavasti osaamista järjestelmäpalvelun tarjoamisen eri osapuolilta, sekä persoonallisuuden soveltumista <text:span text:style-name="T18">niin</text:span> työyhteisöön <text:span text:style-name="T18">kuin varsinaiseen</text:span> työtehtävään.</text:p>
+   <text:p text:style-name="P57"><text:span text:style-name="T18">Työn ohella h</text:span>enkilöstö<text:span text:style-name="T18">mme</text:span> vastaa itse oma<text:span text:style-name="T18">n ammattitaidon kehittämisestä sekä oppivat</text:span> jatkuvasti globaalilta osaajayhteisöltä.</text:p>
+   <text:p text:style-name="P57">Junior- ja Trainee -tason työntekijöitä opastetaan ja työn suorittamista valvotaan aktiivisesti.<text:line-break/></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2990_2349706580"/>Sovelluskehityksen periaatteet<text:bookmark-end text:name="__RefHeading___Toc2990_2349706580"/></text:h>
    <text:p text:style-name="P21">Hypernova Oy noudattaa näitä periaatteita tehdessään sovelluskehitystyötä.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2992_2349706580"/>Tietosuoja- ja tietoturvavaatimusten huomiointi<text:bookmark-end text:name="__RefHeading___Toc2992_2349706580"/></text:h>
