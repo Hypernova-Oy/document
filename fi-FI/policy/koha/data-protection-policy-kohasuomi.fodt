@@ -806,8 +806,8 @@
      <table:table-cell office:value-type="string">
       <text:p text:style-name="P3">Hypernova Oy</text:p>
       <text:p text:style-name="P1"/>
-      <text:p text:style-name="P1">Kauppakatu 25 C 409</text:p>
-      <text:p text:style-name="P1">80100 JOENSUU</text:p>
+      <text:p text:style-name="P1">PL 16</text:p>
+      <text:p text:style-name="P1">80101 JOENSUU</text:p>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P4"><text:span text:style-name="T2">Puhelin: </text:span><text:a xlink:type="simple" xlink:href="tel:+358449857337" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">+358449857337</text:a></text:p>
       <text:p text:style-name="P1">Y-tunnus: 2925676-3</text:p>
