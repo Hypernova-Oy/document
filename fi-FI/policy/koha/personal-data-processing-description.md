@@ -46,7 +46,7 @@ On mahdollista rajapintojen kautta sallia loppukäyttäjätietojen muokkaaminen.
 ### Tietojen haku
 
 Asiakastietoja voidaan hakea järjestelmästä.  
-GDPR-vaatimusten mukaisesti asiakkaan tietojen hakeminen ja näyttäminen tallentuvat tietokannan lokiin.
+Asiakkaan tietojen hakeminen ja näyttäminen on mahdollista tallentaa tietokannan lokiin.
 
 ### Tietojen luovuttaminen ja siirtäminen
 
