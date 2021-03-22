@@ -219,7 +219,7 @@ koha.sessions -tietokantataulussa
 
 ####  2.7.2. <a name='Henkiltietojenksittelynlokituskyttloki'></a>Henkilötietojen käsittelyn lokitus (käyttöloki)
 
-koha.accesslog -tietokantataulussa
+koha.action_logs-tietokantataulussa
 
 ####  2.7.3. <a name='Lokiraportit'></a>Lokiraportit
 
