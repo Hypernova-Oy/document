@@ -96,7 +96,7 @@ terveyteen liittyviä tietoja, rotuun tai etniseen alkuperään liittyviä tieto
 
 ## Alihankkijat
 
-Toimittaja ei käytä alihankkijoita Koha-hosting -palvelun tarjoamiseen.
+Toimittaja voi käyttää alihankkijoita Koha-hosting -palvelun toteuttamiseen. Alihankkijat listataan erillisessä liitteessä.
 
 Palvelininfran toimittajalla on mahdollisuus päästä käsiksi palvelun tietoihin esimerkiksi viranomaisvaatimuksen seurauksena.
 
