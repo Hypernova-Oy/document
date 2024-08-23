@@ -34,7 +34,7 @@ Järjestelmä tallentaa loppukäyttäjän tiedot tietokantaan. Yleensä tiedot s
 
 On mahdollista myös rajapintojen kautta tuoda ja viedä loppukäyttäjien tietoja.
 
-Loppukäyttäjien tiedot säilytetään tietokannassa ja varmuuskopioissa.  
+Loppukäyttäjien tiedot säilytetään tietokannassa ja varmuuskopioissa.
 Loppukäyttäjätietojen poistaminen tietokannasta, esimerkiksi asiakkuuden vanhennuttua, on asiakkaan tietokannanhoitotoimenpiteiden varassa.
 
 ### Tietojen muokkaaminen
@@ -45,7 +45,7 @@ On mahdollista rajapintojen kautta sallia loppukäyttäjätietojen muokkaaminen.
 
 ### Tietojen haku
 
-Asiakastietoja voidaan hakea järjestelmästä.  
+Asiakastietoja voidaan hakea järjestelmästä.
 Asiakkaan tietojen hakeminen ja näyttäminen on mahdollista tallentaa tietokannan lokiin.
 
 ### Tietojen luovuttaminen ja siirtäminen
@@ -78,7 +78,7 @@ nimi, titteli, kotiosoite, puhelin- ja matkapuhelinnumerot, sähköpostiosoite, 
 
 ### Työntekijätiedot
 
-Erityisesti käyttöoikeudet järjestelmään.  
+Erityisesti käyttöoikeudet järjestelmään.
 Kuten loppukäyttäjätiedot, lisäksi asiakkaan vapaavalintaisia lisätietoja.
 
 ### Ei-henkilöasiakkaiden tiedot
@@ -91,7 +91,7 @@ kirjautumiset järjestelmään, IP-osoite, istuntotunniste, valinnainen lainahis
 
 ### Erityiset henkilötietotyypit
 
-Järjestelmään ei tallenneta:  
+Järjestelmään ei tallenneta:
 terveyteen liittyviä tietoja, rotuun tai etniseen alkuperään liittyviä tietoja, poliittisia mielipiteitä, uskonnollisia tai filosofisia vakaumuksia, ammattiliiton jäsenyyksiä, geneettisiä tai biometrisiä tietoja henkilön yksiselitteiseksi tunnistamiseksi, henkilön seksuaaliseen käyttäytymiseen liittyviä tietoja, rikostuomioita ja rikkomuksia tai niihin liittyviä turvaamistoimia.
 
 ## Alihankkijat
