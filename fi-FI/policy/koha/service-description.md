@@ -8,6 +8,10 @@ avoimen lähdekoodin kirjastojärjestelmän **Koha**:n käyttöönoton ja ylläp
 
 Palvelu tuotetaan kokonaisuudessaan vapaan ja avoimen lähdekoodin ohjelmistoilla.
 
+Palvelun toteuttamisen maantieteellinen sijainti on Suomi. Koha-palvelimet
+ja tallennetut tiedot sijaitsevat Suomessa. Mahdollisten alihankkijoiden
+tarjoamat palvelut sijaitsevat EU-alueella.
+
 ## Palvelun elinkaari
 
 ### 2.1 Käyttöönotto- ja parametrointipalvelu
