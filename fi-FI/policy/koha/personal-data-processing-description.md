@@ -1,5 +1,15 @@
 # Koha-hosting -palvelun henkilötietojen käsittelykuvaus
 
+**Versio:** 1.0.0 (2024-08-23)  
+**Voimassa:** 2024-08-23 alkaen  
+**Edellinen versio:** ei versioitu
+
+## Dokumentin hallinta
+
+**Vastuuhenkilö:** Lari Taskula, Toimitusjohtaja  
+**Jakelu:** Kaikki asiakkaat saavat ilmoituksen päivityksistä 30 päivää etukäteen  
+**Arkistointi:** Kaikki versiot säilytetään pysyvästi Hypernova Oy:n dokumenttiarkistossa. Päivityshetkellä julkisesti saatavilla GitHub:ssa.  
+
 Tässä asiakirjassa määritellään mitä mahdollisuuksia asiakkaan tietojen käsittelyyn Koha-järjestelmästä löytyy. Jokainen asiakas määrittelee itse tarkemmin mihin järjestelmän mahdollisuuksia käyttää ja kuvaa ne omassa käsittelykuvauksessaan tai henkilötietorekisteriselosteessaan tai muussa vastaavassa, kuten kirjaston käyttösäännöissä.
 
 Hypernova Oy ei toimi rekisterinpitäjänä vaan huolehtii rekisterin teknisestä saavutettavuudesta.
