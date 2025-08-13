@@ -1,4 +1,4 @@
-# Koha-hosting -palvelun henkilötietojen käsittelykuvaus
+# Koha-kirjastojärjestelmän ylläpitopalvelun henkilötietojen käsittelykuvaus
 
 **Versio:** 1.0.0 (2024-08-23)  
 **Voimassa:** 2024-08-23 alkaen  
