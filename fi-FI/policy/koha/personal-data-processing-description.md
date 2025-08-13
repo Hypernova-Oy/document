@@ -12,7 +12,13 @@
 
 Tässä asiakirjassa määritellään mitä mahdollisuuksia asiakkaan tietojen käsittelyyn Koha-järjestelmästä löytyy. Jokainen asiakas määrittelee itse tarkemmin mihin järjestelmän mahdollisuuksia käyttää ja kuvaa ne omassa käsittelykuvauksessaan tai henkilötietorekisteriselosteessaan tai muussa vastaavassa, kuten kirjaston käyttösäännöissä.
 
-Hypernova Oy ei toimi rekisterinpitäjänä vaan huolehtii rekisterin teknisestä saavutettavuudesta.
+## Roolit
+
+Henkilötietojen käsittelijä - Hypernova Oy ei toimi rekisterinpitäjänä vaan huolehtii rekisterin teknisestä saavutettavuudesta
+
+Rekisterinpitäjä - Kirjasto toimii rekisterinpitäjänä.
+
+Rekisteröidyt/Käyttäjät - Kirjaston asiakkaat ovat rekisteriin rekisteröidyt käyttäjät.
 
 ## Henkilötietojen käyttötarkoitus
 
@@ -25,6 +31,26 @@ Järjestelmän loppukäyttäjärekisteriä käytetään normaaleihin päivittäi
 * ongelma- ja vikatilanteiden selvittäminen
 
 Lisäksi muut kirjaston tarpeet, jotka jokainen asiakas määrittelee erikseen.
+
+## Henkilötietojen käsittelyn oikeusperusta
+
+### Suostumus (GDPR 6(1)(a))
+* Loppukäyttäjälta tulisi pyytää suostumus henkilötietojensa käyttöön ja säilyttämiseen kirjaston henkilötietojen käytön rekisteriselosteen mukaisesti.
+* Valinnainen lainahistorian tallentaminen
+* Valinnainen hakuhistorian tallentaminen
+
+### Koha-ylläpitosopimuksen täyttäminen (GDPR 6(1)(b))
+* Tietojen kerääminen on välttämätöntä käyttäjätilien hallitsemiseksi ja kirjastopalveluiden tarjoamiseksi, kuten teosten lainauspalvelu.
+
+### Lakisääteinen velvollisuus (GDPR 6(1)(c))
+* Käyttäjätietojen kerääminen on tarpeellista kirjaston lakisääteisten velvollisuuksien hoitamiseksi, kuten mahdollinen tilastointivelvollisuus.
+
+### Rekisteröityjen oikeuksien toteutuminen (GDPR 6(1)(d))
+* Tietojen kerääminen on tärkeää kun selvitetään väärinkäytöstilanteita.
+
+### Rekisterinpitäjän oikeutettu etu (GDPR 6(1)(f))
+* Asiakastietoja kerätään tietoturva ja väärinkäytösten estämiseksi
+* Teknisen tuen tarjoaminen vikatilanteissa
 
 ## Henkilötietojen käsittelytavat
 
