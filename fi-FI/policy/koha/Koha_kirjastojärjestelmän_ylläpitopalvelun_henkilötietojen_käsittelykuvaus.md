@@ -1,16 +1,40 @@
-# Koha-kirjastojärjestelmän ylläpitopalvelun henkilötietojen käsittelykuvaus
+# Koha-kirjastojärjestelmän ylläpitopalvelun henkilötietojen käsittelykuvaus (PDPD)
 
-**Versio:** 1.0.0 (2024-08-23)  
-**Voimassa:** 2024-08-23 alkaen  
-**Edellinen versio:** ei versioitu
-
-## Dokumentin hallinta
-
+**Versio:** 1.1.0 (2025-08-14)  
+**Voimassa:** 2025-09-14 alkaen  
+**Edellinen versio:** 1.0.0 (2024-08-23)  
 **Vastuuhenkilö:** Lari Taskula, Toimitusjohtaja  
 **Jakelu:** Kaikki asiakkaat saavat ilmoituksen päivityksistä 30 päivää etukäteen  
 **Arkistointi:** Kaikki versiot säilytetään pysyvästi Hypernova Oy:n dokumenttiarkistossa. Päivityshetkellä julkisesti saatavilla GitHub:ssa.  
 
 Tässä asiakirjassa määritellään mitä mahdollisuuksia asiakkaan tietojen käsittelyyn Koha-järjestelmästä löytyy. Jokainen asiakas määrittelee itse tarkemmin mihin järjestelmän mahdollisuuksia käyttää ja kuvaa ne omassa käsittelykuvauksessaan tai henkilötietorekisteriselosteessaan tai muussa vastaavassa, kuten kirjaston käyttösäännöissä.
+
+- [Koha-kirjastojärjestelmän ylläpitopalvelun henkilötietojen käsittelykuvaus (PDPD)](#koha-kirjastojärjestelmän-ylläpitopalvelun-henkilötietojen-käsittelykuvaus-pdpd)
+  - [Roolit](#roolit)
+  - [Henkilötietojen käyttötarkoitus](#henkilötietojen-käyttötarkoitus)
+  - [Henkilötietojen käsittelyn oikeusperusta](#henkilötietojen-käsittelyn-oikeusperusta)
+    - [Suostumus (GDPR 6(1)(a))](#suostumus-gdpr-61a)
+    - [Koha-ylläpitosopimuksen täyttäminen (GDPR 6(1)(b))](#koha-ylläpitosopimuksen-täyttäminen-gdpr-61b)
+    - [Lakisääteinen velvollisuus (GDPR 6(1)(c))](#lakisääteinen-velvollisuus-gdpr-61c)
+    - [Rekisteröityjen oikeuksien toteutuminen (GDPR 6(1)(d))](#rekisteröityjen-oikeuksien-toteutuminen-gdpr-61d)
+    - [Rekisterinpitäjän oikeutettu etu (GDPR 6(1)(f))](#rekisterinpitäjän-oikeutettu-etu-gdpr-61f)
+  - [Henkilötietojen käsittelytavat](#henkilötietojen-käsittelytavat)
+    - [Tietojen kerääminen](#tietojen-kerääminen)
+    - [Tietojen tallentaminen ja säilyttäminen](#tietojen-tallentaminen-ja-säilyttäminen)
+    - [Tietojen muokkaaminen](#tietojen-muokkaaminen)
+    - [Tietojen haku](#tietojen-haku)
+    - [Tietojen luovuttaminen ja siirtäminen](#tietojen-luovuttaminen-ja-siirtäminen)
+    - [Tietojen yhdistäminen](#tietojen-yhdistäminen)
+    - [Tietojen rajoittaminen](#tietojen-rajoittaminen)
+    - [Tietojen poistaminen](#tietojen-poistaminen)
+  - [Käsitellyt henkilötietotyypit](#käsitellyt-henkilötietotyypit)
+    - [Loppukäyttäjätiedot](#loppukäyttäjätiedot)
+    - [Työntekijätiedot](#työntekijätiedot)
+    - [Ei-henkilöasiakkaiden tiedot](#ei-henkilöasiakkaiden-tiedot)
+    - [Käyttäytymistiedot](#käyttäytymistiedot)
+    - [Erityiset henkilötietotyypit](#erityiset-henkilötietotyypit)
+  - [Alihankkijat](#alihankkijat)
+  - [Henkilötietojen maantieteellinen sijainti](#henkilötietojen-maantieteellinen-sijainti)
 
 ## Roolit
 
