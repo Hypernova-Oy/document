@@ -261,11 +261,12 @@ Blowfish
 
 ####  2.11.3. <a name='Yhteyksiensuojausverkkoliikenteentietoturva'></a> Yhteyksien suojaus / verkkoliikenteen tietoturva
 
-TLS1.2
+TLS1.3
 
 ####  2.11.4. <a name='Tietojensuojaukset'></a> Tietojen suojaukset
 
--
+- Varmuuskopiot salataan AES-512 algoritmilla
+- Verkkoliikenne salataan aina TLS 1.3 -protokollalla
 
 ####  2.11.5. <a name='Tietojensytnsuojaus'></a> Tietojen syötön suojaus
 
