@@ -1,11 +1,8 @@
-# Description of Personal Data Processing for the Koha Library System Maintenance Service
+# Personal Data Processing Description (PDPD) for the Koha Library System Maintenance Service
 
-**Version:** 1.0.0 (2024-08-23)  
-**Effective:** From 2024-08-23  
-**Previous version:** Not versioned
-
-## Document Management
-
+**Version:** 1.1.0 (2025-08-14)  
+**Effective:** From 2025-09-14  
+**Previous version:** 1.0.0 (2024-08-23)  
 **Responsible person:** Lari Taskula, CEO  
 **Distribution:** All customers receive notification of updates 30 days in advance  
 **Archiving:** All versions are permanently stored in Hypernova Oy’s document archive. At the time of update, the document is made publicly available on GitHub.  
