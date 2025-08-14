@@ -1,4 +1,11 @@
-# Koha-hosting -palvelun tietoturva- ja tietosuojaselvitys
+# Koha-hosting -palvelun tietoturva- ja tietosuojaselvitys (SPS)
+
+**Versio:** 1.0.1 (2025-08-14)  
+**Voimassa:** From 2025-09-14  
+**Edellinen versio:** 1.0.0 (2021-03-22)  
+**Vastuuhenkilö:** Lari Taskula, Toimitusjohtaja  
+**Jakelu:** Kaikki asiakkaat saavat ilmoituksen päivityksistä 30 päivää etukäteen  
+**Arkistointi:** Kaikki versiot säilytetään pysyvästi Hypernova Oy:n dokumenttiarkistossa. Päivityshetkellä julkisesti saatavilla GitHub:ssa.  
 
 <!-- vscode-markdown-toc -->
 * 1. [Tietojärjestelmätoimittajalta vaadittavat tietoturva- ja tietosuojakäytänteet](#Tietojrjestelmtoimittajaltavaadittavattietoturva-jatietosuojakytnteet)
