@@ -1,4 +1,4 @@
-# Personal Data Processing Description (PDPD) for the Koha Library System Maintenance Service
+# Personal Data Processing Description (PDPD) for the Koha Library System Hosting Service
 
 **Version:** 1.1.0 (2025-08-14)  
 **Effective:** From 2025-09-14  
@@ -23,7 +23,7 @@ The system’s end-user register is used to address the normal daily challenges 
 
 * Fulfilling the library’s statutory obligations
 * User management, such as access rights
-* Service maintenance
+* Service maintenance & hosting
 * Service development
 * Troubleshooting and incident resolution
 
@@ -36,7 +36,7 @@ Additionally, any other needs of the library as defined separately by each custo
 * Optional storage of loan history
 * Optional storage of search history
 
-### Fulfilment of the Koha Maintenance Agreement (GDPR 6(1)(b))
+### Fulfilment of the Koha Hosting Agreement (GDPR 6(1)(b))
 * Data collection is necessary for managing user accounts and providing library services, such as lending items.
 
 ### Legal Obligation (GDPR 6(1)(c))
